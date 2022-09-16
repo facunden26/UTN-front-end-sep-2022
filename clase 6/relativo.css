@@ -1,0 +1,38 @@
+.contenedor{
+    background-color: rgb(182, 182, 182);
+    width: 60%;
+    margin: 0 auto; /**/
+    height: 800px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.verde{
+    background-color: rgb(127, 255, 144);
+    width: 90%;
+    height: 150px;
+    margin: 0 auto 20px; /*  */
+    position: relative;
+    top: 50px;
+    left: 50px;
+
+
+}
+
+.amarillo{
+    background-color: rgb(246, 255, 127);
+    width: 90%;
+    height: 150px;
+    margin: 0 auto 20px; /*  */
+
+
+}
+
+.celeste{
+    background-color: rgb(127, 240, 255);
+    width: 90%;
+    height: 150px;
+    margin: 0 auto 20px; /*  */
+
+
+}
